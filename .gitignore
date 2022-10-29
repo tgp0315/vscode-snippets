@@ -1,2 +1,4 @@
+# VS Code
+
+*.vsix
 .vscode
-vscode-plugin-ain-snippets-*.vsix
