@@ -1,0 +1,9 @@
+{
+  "vue-script": {
+    "prefix": "elin",
+    "body": [
+        "name: '张三'"
+      ],
+    "description": "input value"
+  }
+}

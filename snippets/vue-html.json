@@ -1,0 +1,35 @@
+{
+  "vue element button": {
+    "prefix": "elbt",
+    "body": [
+        "<el-button type='${0:primary}' disabled>${1:主要按钮}</el-button>"
+      ],
+    "description": "create button component"
+  },
+  "vue element input": {
+    "prefix": "elin",
+    "body": [
+        "<el-input type='${0:text}' v-model='name'/>"
+      ],
+    "description": "create input component"
+  },
+  "vue element checkbox": {
+    "prefix": "elch",
+    "body": [
+        "<el-checkbox v-model='${0:checked}'>备选项</el-checkbox>"
+      ],
+    "description": "create checkbox component"
+  },
+  "vue element date picker": {
+    "prefix": "eldp",
+    "body": [
+        "<el-date-picker",
+        "  v-model='value1'",
+        "  type='date'",
+        "  align='right'",
+        "  placeholder='选择日期'>",
+        "</el-date-picker>"
+      ],
+    "description": "create date picker component"
+  }
+}

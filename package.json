@@ -13,11 +13,11 @@
     "snippets": [
       {
         "language": "vue-html",
-        "path": "./snippets/vue.code-snippets"
+        "path": "./snippets/vue-html.json"
       },
       {
         "language": "javascript",
-        "path": "./snippets/vue-javascript.code-snippets"
+        "path": "./snippets/vue-javascript.json"
       }
     ]
   }

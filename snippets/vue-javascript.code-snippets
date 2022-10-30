@@ -1,9 +1,0 @@
-{
-  "vue-template": {
-    "prefix": "elin",
-    "body": [
-        "a: 111"
-      ],
-    "description": "Code snippet for react function component"
-  },
-}
